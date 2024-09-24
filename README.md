@@ -1,12 +1,16 @@
-This project is a USB Automation Tool using Ducky Emulator technology and Python scripts. It is designed to rapidly automate tasks on a computer, enhancing efficiency and productivity by enabling the smooth execution of custom scripts or predetermined operations.<br />
-The main tasks that were done for this project include: 
-1. Utlizing Ducky Emulator technology to quickly automate various tasks.
-2. Supports the execution of custom Python scripts specialized to specific needs.
-3. Facilitate the smooth execution of predefined operations smooth assignments.
-4. Improve productivity by automating repetitive tasks.
+# USB Automation Tool 
 
-Technical Skills: 
-1. Python
-2. Ducky Emulator
-3. Visual Studio Code 
+The USB Automation Tool uses Ducky Emulator technology and Python scripts to rapidly automate tasks on a computer. This tool is designed to enhance efficiency and productivity by enabling the smooth execution of custom scripts or predetermined operations. 
+
+# Project Features 
+- Quickly automate various tasks using Ducky Emulator.
+- Supports the execution of custom Python scripts tailored to specific needs.
+- Facilitates the smooth exectuion of predefined operations and assignments.
+- Automates repetitive tasks to imporve productivity.
+
+# Technical Skills 
+- Python
+- Ducky Emulator
+- Visual Studio Code
+
 
